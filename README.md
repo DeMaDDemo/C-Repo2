@@ -1,2 +1,4 @@
-# C-Repo1
-写C语言的主要仓库，一些杂碎小代码
+# C-Repo2
+
+C-Repo1是存储主要配置的仓库
+C-Repo2是与GitHub，codespace等交互的仓库
